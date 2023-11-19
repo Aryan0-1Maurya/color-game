@@ -4,7 +4,7 @@ Dive into a world of colors and challenge your perception with the Color Game! �
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/color-game/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/color-game/) 🕹️
 
 ## About the Game
 
